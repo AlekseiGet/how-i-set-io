@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/how-i-set-io/static/css/main.a8bc8869.css",
-    "main.js": "/how-i-set-io/static/js/main.53cff01a.js",
+    "main.css": "/how-i-set-io/static/css/main.63046dd7.css",
+    "main.js": "/how-i-set-io/static/js/main.f6bedf7f.js",
     "static/media/cripto.png": "/how-i-set-io/static/media/cripto.2befb6671ac9de866138.png",
     "static/media/logoLinux.png": "/how-i-set-io/static/media/logoLinux.1a9d7a74219460cee8ff.png",
     "static/media/logoWindows.png": "/how-i-set-io/static/media/logoWindows.2e6ab3632be86162cfd1.png",
     "index.html": "/how-i-set-io/index.html",
-    "main.a8bc8869.css.map": "/how-i-set-io/static/css/main.a8bc8869.css.map",
-    "main.53cff01a.js.map": "/how-i-set-io/static/js/main.53cff01a.js.map"
+    "main.63046dd7.css.map": "/how-i-set-io/static/css/main.63046dd7.css.map",
+    "main.f6bedf7f.js.map": "/how-i-set-io/static/js/main.f6bedf7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8bc8869.css",
-    "static/js/main.53cff01a.js"
+    "static/css/main.63046dd7.css",
+    "static/js/main.f6bedf7f.js"
   ]
 }
